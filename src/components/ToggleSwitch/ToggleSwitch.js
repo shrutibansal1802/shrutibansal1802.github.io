@@ -9,6 +9,7 @@ const ToggleSwitch = () => {
 
   return (
     <label className="switch">
+   
       <input
         type="checkbox"
         checked={isDark}
